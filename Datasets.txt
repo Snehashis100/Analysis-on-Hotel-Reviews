@@ -1,0 +1,2 @@
+https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe==>Hotel_Reviews.csv
+after preprocessing the above data we store it in a new .csv file named sentiment_data.csv
